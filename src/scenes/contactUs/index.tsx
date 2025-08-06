@@ -46,9 +46,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+            "Confident movement starts with the right support. Designed to strengthen your body and mind, our approach focuses on balance, energy, and real results. Every step forward takes you closer to your goals."
           </p>
         </motion.div>
 

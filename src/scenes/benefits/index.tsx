@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Not just about eating well. Enjoy the strength of movement and balance in every step. With care and confidence.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Focused on your goals, with lasting results and confident progress. Built on support and smart routines. Stay on track, stay strong.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Build strength with purpose. Simple steps, powerful progress. Designed to help you move better, feel better, and live better.",
   },
 ];
 
@@ -131,18 +131,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                "Unlock your potential with expert support and guided movement. Designed for all fitness levels, our programs build strength, boost confidence, and keep you moving forward. Progress is personal — and we're here every step of the way."
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+                "Built for real results, our approach blends strength, flexibility, and smart training. With guided support and dynamic routines, you'll gain confidence, improve performance, and move toward your goals—one step at a time."
               </p>
             </motion.div>
 

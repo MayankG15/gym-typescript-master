@@ -23,13 +23,13 @@ const classes: Array<ClassType> = [
   {
     name: "Ab Core Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "We believe in making wellness simple, effective, and accessible. Our mission is to help you move better, feel stronger, and live a healthier life—every single day. With expert guidance and smart routines, progress is always within reach.",
     image: image3,
   },
   {
     name: "Adventure Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+     "We believe in making wellness simple, effective, and accessible. Our mission is to help you move better, feel stronger, and live a healthier life—every single day. With expert guidance and smart routines, progress is always within reach.",
     image: image4,
   },
   {
@@ -39,7 +39,7 @@ const classes: Array<ClassType> = [
   {
     name: "Training Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "We believe in making wellness simple, effective, and accessible. Our mission is to help you move better, feel stronger, and live a healthier life—every single day. With expert guidance and smart routines, progress is always within reach.",
     image: image6,
   },
 ];
@@ -68,10 +68,9 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+              "Push your limits with confidence. Our programs are built to support your journey with strength, flexibility, and smart progress. Stay consistent, stay motivated, and see real transformation."
+
+
             </p>
           </div>
         </motion.div>
